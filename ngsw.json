@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1679466285763,
+  "timestamp": 1679486425153,
   "index": "/angular_IndexedDB/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,8 @@
       "urls": [
         "/angular_IndexedDB/favicon.ico",
         "/angular_IndexedDB/index.html",
-        "/angular_IndexedDB/main.76ba199cb42f1e5c.js",
+        "/angular_IndexedDB/main.3b388555238f33ed.js",
+        "/angular_IndexedDB/manifest.webmanifest",
         "/angular_IndexedDB/polyfills.f0b70b7fb764918e.js",
         "/angular_IndexedDB/runtime.37cfdd5f42239273.js",
         "/angular_IndexedDB/styles.7860591edada5363.css"
@@ -29,6 +30,14 @@
       },
       "urls": [
         "/angular_IndexedDB/Site-under-constrauct.b652105e06183777.jpg",
+        "/angular_IndexedDB/assets/icons/icon-128x128.png",
+        "/angular_IndexedDB/assets/icons/icon-144x144.png",
+        "/angular_IndexedDB/assets/icons/icon-152x152.png",
+        "/angular_IndexedDB/assets/icons/icon-192x192.png",
+        "/angular_IndexedDB/assets/icons/icon-384x384.png",
+        "/angular_IndexedDB/assets/icons/icon-512x512.png",
+        "/angular_IndexedDB/assets/icons/icon-72x72.png",
+        "/angular_IndexedDB/assets/icons/icon-96x96.png",
         "/angular_IndexedDB/assets/images/Site-under-constrauct.jpg"
       ],
       "patterns": []
@@ -37,10 +46,19 @@
   "dataGroups": [],
   "hashTable": {
     "/angular_IndexedDB/Site-under-constrauct.b652105e06183777.jpg": "5eac04a48116f1eeb730db35c15e6114d913fbad",
+    "/angular_IndexedDB/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular_IndexedDB/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular_IndexedDB/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular_IndexedDB/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular_IndexedDB/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular_IndexedDB/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular_IndexedDB/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular_IndexedDB/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/angular_IndexedDB/assets/images/Site-under-constrauct.jpg": "5eac04a48116f1eeb730db35c15e6114d913fbad",
     "/angular_IndexedDB/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular_IndexedDB/index.html": "611bf699d1b7012daff9392f9c13ce340fc1ddfd",
-    "/angular_IndexedDB/main.76ba199cb42f1e5c.js": "a98bc61b5b00cbbdbafe405ccd418b020b2e2e34",
+    "/angular_IndexedDB/index.html": "886171ffc3cec757d123ba1629769fb3d929ea12",
+    "/angular_IndexedDB/main.3b388555238f33ed.js": "864786da0f9c58bffaeb15cfb2cc6c17df7f05d9",
+    "/angular_IndexedDB/manifest.webmanifest": "e8418fa7302fc49272d3c264fc768581ca871ad7",
     "/angular_IndexedDB/polyfills.f0b70b7fb764918e.js": "ace20f97b9e92df7cc2c4047cc4270d3b1aeba67",
     "/angular_IndexedDB/runtime.37cfdd5f42239273.js": "c24a8969b1f6f4e7e2b3cf02c5d88e9a62e85be0",
     "/angular_IndexedDB/styles.7860591edada5363.css": "e136bebcbac3c3f0bfaf7de60ca55d1cec782a7f"
